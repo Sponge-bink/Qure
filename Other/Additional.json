@@ -1,1 +1,18 @@
-{"name":"Additional","icons":[{"name":"OpenAI.png","url":"https://raw.githubusercontent.com/Sponge-bink/Qure/master/IconSet/Additional/OpenAI.png"},{"name":"OpenAI_filled.png","url":"https://raw.githubusercontent.com/Sponge-bink/Qure/master/IconSet/Additional/OpenAI_filled.png"}],"description":"Additional 是基于 Qure 项目的扩展集合"}
+{
+    "name": "Additional",
+    "icons": [
+        {
+            "name": "OpenAI.png",
+            "url": "https://raw.githubusercontent.com/Sponge-bink/Qure/master/IconSet/Additional/OpenAI.png"
+        },
+        {
+            "name": "OpenAI_filled.png",
+            "url": "https://raw.githubusercontent.com/Sponge-bink/Qure/master/IconSet/Additional/OpenAI_filled.png"
+        },
+        {
+            "name": "GLaDOS",
+            "url": "https://raw.githubusercontent.com/Sponge-bink/Qure/master/IconSet/Additional/GLaDOS.png"
+        }
+    ],
+    "description": "Additional 是基于 Qure 项目的扩展集合"
+}
