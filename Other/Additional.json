@@ -10,8 +10,12 @@
             "url": "https://raw.githubusercontent.com/Sponge-bink/Qure/master/IconSet/Additional/OpenAI_filled.png"
         },
         {
-            "name": "GLaDOS",
+            "name": "GLaDOS.png",
             "url": "https://raw.githubusercontent.com/Sponge-bink/Qure/master/IconSet/Additional/GLaDOS.png"
+        },
+        {
+            "name": "OpenAI_red.png",
+            "url": "https://raw.githubusercontent.com/Sponge-bink/Qure/master/IconSet/Additional/OpenAI_red.png"
         }
     ],
     "description": "Additional 是基于 Qure 项目的扩展集合"
